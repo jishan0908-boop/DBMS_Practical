@@ -30,18 +30,22 @@
 ![Screenshot from 2025-03-10 19-49-56](https://github.com/user-attachments/assets/8650ea1d-6df1-4a6e-bc27-c3ca50562b28)
 
 ## Question 6 : Find society details with more than N TotalSeats where N is to be input by the user
-![Screenshot from 2025-03-10 19-53-06](https://github.com/user-attachments/assets/af2ad0d9-9c85-4ee6-8845-c468d56f7190)
+
 
 ## Question 7 : Update society table for mentor name of a specific society
-![Screenshot from 2025-03-10 20-03-45](https://github.com/user-attachments/assets/2aadbd96-b0c4-4f54-b0c8-895ef26d70a5)
+![Screenshot from 2025-03-10 19-53-06](https://github.com/user-attachments/assets/af2ad0d9-9c85-4ee6-8845-c468d56f7190)
+
 
 ## Question 8 : Find society names in which more than five students have enrolled
-![Screenshot from 2025-03-11 10-22-41](https://github.com/user-attachments/assets/ab8835c7-726f-4816-8f33-8d1590b137ca)
+![Screenshot from 2025-03-10 20-03-45](https://github.com/user-attachments/assets/2aadbd96-b0c4-4f54-b0c8-895ef26d70a5)
+
 
 ## Question 9 : Find the name of youngest student enrolled in society ‘NSS’
-![Screenshot from 2025-03-11 10-36-41](https://github.com/user-attachments/assets/6067af9c-458f-416f-b2fd-eb1a95122f49)
+![Screenshot from 2025-03-11 10-22-41](https://github.com/user-attachments/assets/ab8835c7-726f-4816-8f33-8d1590b137ca)
+
 
 ## Question 10 : Find the name of most popular society (on the basis of enrolled students)
+![Screenshot from 2025-03-11 10-36-41](https://github.com/user-attachments/assets/6067af9c-458f-416f-b2fd-eb1a95122f49)
 ![Screenshot from 2025-03-11 10-38-07](https://github.com/user-attachments/assets/1853bed0-fbe2-464c-a62e-cec8f2849586)
 
 ## Question 11 : Find the name of two least popular societies (on the basis of enrolled students)
