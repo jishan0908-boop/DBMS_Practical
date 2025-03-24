@@ -6,7 +6,7 @@
 ## Displaying all the tables :
 ![Screenshot from 2025-03-10 18-57-53](https://github.com/user-attachments/assets/c600bcd7-66ec-485f-8741-adc4d9cd1961)
 ## Table 1 : Student :
-![Screenshot from 2025-03-10 19-08-50](https://github.com/user-attachments/assets/44822e81-38a6-476b-adee-80d171d03203)
+![Screenshot from 2025-03-10 19-09-11](https://github.com/user-attachments/assets/ec225b0a-98d0-4ebe-a9c5-c7b8aacc9119)
 ## Table 2 : Society :
 ![Screenshot from 2025-03-10 19-16-31](https://github.com/user-attachments/assets/31d49e55-0d0f-4f16-af78-1e4400ec8310)
 ## Table 3 : Enrollment :
