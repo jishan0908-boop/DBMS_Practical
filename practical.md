@@ -57,15 +57,13 @@
 
 
 ## Question 13 : Find the student names enrolled in at least two societies
-
-
+![Screenshot from 2025-03-24 21-16-37](https://github.com/user-attachments/assets/3d916e7a-53d8-4a44-86e7-cc17319bb073)
 
 ## Question 14 : Find society names in which maximum students are enrolled
-
-
+![Screenshot from 2025-03-24 21-19-38](https://github.com/user-attachments/assets/f2f8aa80-45b4-414e-bfda-1fb480b1d7c5)
 
 ## Question 15 : Find names of all students who have enrolled in any society and society names in which at least one student has enrolled
-
+![Screenshot from 2025-03-24 21-25-39](https://github.com/user-attachments/assets/80915615-0a1b-46f6-b03f-4fee22870320)
 
 ## Question 16 : Find names of students who are enrolled in any of the three societies ‘Debating’, ‘Dance’ and ‘Sashakt’.
 ![Screenshot from 2025-03-11 11-46-39](https://github.com/user-attachments/assets/4921051d-f244-4325-b11b-7da6c7c56ccb)
