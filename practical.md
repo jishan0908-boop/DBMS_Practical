@@ -74,7 +74,11 @@
 ![Screenshot from 2025-03-11 11-49-49](https://github.com/user-attachments/assets/a9d4ffd3-c578-4bf0-af57-c1b20efd857f)
 
 ## Question 18 : Find the society names in which the number of enrolled students is only 10% of its capacity.
-## Question 19 : Display the vacant seats for each society.
-## Question 20 : Increment Total Seats of each society by 10%
+![Screenshot from 2025-03-11 12-13-33](https://github.com/user-attachments/assets/c61c5388-218f-4697-ad9f-dbdf120609c2)
 
+## Question 19 : Display the vacant seats for each society.
+![Screenshot from 2025-03-11 12-17-32](https://github.com/user-attachments/assets/5b79e15f-3f5a-4204-88b3-441fe1d70b5b)
+
+## Question 20 : Increment Total Seats of each society by 10%
+![Screenshot from 2025-03-11 12-19-02](https://github.com/user-attachments/assets/e7308acf-abc8-4983-afce-1372f47d5d13)
 
