@@ -57,18 +57,22 @@
 
 
 ## Question 13 : Find the student names enrolled in at least two societies
-![Screenshot from 2025-03-11 10-47-15](https://github.com/user-attachments/assets/9cc32c45-41e8-4e3f-8500-32d29e5b0d3a)
+
 
 
 ## Question 14 : Find society names in which maximum students are enrolled
-![Screenshot from 2025-03-11 11-46-39](https://github.com/user-attachments/assets/4921051d-f244-4325-b11b-7da6c7c56ccb)
+
 
 
 ## Question 15 : Find names of all students who have enrolled in any society and society names in which at least one student has enrolled
-![Screenshot from 2025-03-11 11-49-49](https://github.com/user-attachments/assets/a9d4ffd3-c578-4bf0-af57-c1b20efd857f)
+
 
 ## Question 16 : Find names of students who are enrolled in any of the three societies ‘Debating’, ‘Dance’ and ‘Sashakt’.
+![Screenshot from 2025-03-11 11-46-39](https://github.com/user-attachments/assets/4921051d-f244-4325-b11b-7da6c7c56ccb)
+
 ## Question 17 : Find society names such that its mentor has a name with ‘Gupta’ in it.
+![Screenshot from 2025-03-11 11-49-49](https://github.com/user-attachments/assets/a9d4ffd3-c578-4bf0-af57-c1b20efd857f)
+
 ## Question 18 : Find the society names in which the number of enrolled students is only 10% of its capacity.
 ## Question 19 : Display the vacant seats for each society.
 ## Question 20 : Increment Total Seats of each society by 10%
